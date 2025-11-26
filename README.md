@@ -1,4 +1,4 @@
-Man behöver även VäderLabb till start-up project.
+Man behöver sätta VäderLabb till start-up project.
 
 Jag kan inte använda Ctrl + F5 för att köra programmet på min dator eftersom F5-knappen är kopplad till att stänga av/på mikrofonen.
 
