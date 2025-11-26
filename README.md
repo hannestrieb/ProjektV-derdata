@@ -1,3 +1,5 @@
-Jag kan inte använda Ctrl + F5 för att köra programmet på min dator eftersom F5-knappen är kopplad till att stänga av/på mikrofonen.
+Man behÃ¶ver Ã¤ven VÃ¤derLabb till start-up project.
 
-För att starta programmet kör jag i stället genom att klicka på den gröna "Play"-knappen (med eller utan debugger) i Visual Studio.
+Jag kan inte anvÃ¤nda Ctrl + F5 fÃ¶r att kÃ¶ra programmet pÃ¥ min dator eftersom F5-knappen Ã¤r kopplad till att stÃ¤nga av/pÃ¥ mikrofonen.
+
+FÃ¶r att starta programmet kÃ¶r jag i stÃ¤llet genom att klicka pÃ¥ den grÃ¶na "Play"-knappen (med eller utan debugger) i Visual Studio.
