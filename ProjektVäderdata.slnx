@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="ProjektVäderdataCore/ProjektVäderdataCore.csproj" />
+  <Project Path="ProjektVäderdataDataAccess/ProjektVäderdataDataAccess.csproj" />
+  <Project Path="UI/VäderLabb.csproj" />
+</Solution>
